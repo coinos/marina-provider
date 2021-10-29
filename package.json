@@ -1,8 +1,8 @@
 {
-  "name": "marina-provider",
-  "version": "1.4.0",
-  "description": "Marina injected API",
-  "repository": "git@github.com:vulpemventures/marina-provider.git",
+  "name": "coinos-marina-provider",
+  "version": "1.4.2",
+  "description": "Marina injected API for Coinos security assets",
+  "repository": "git@github.com:coinos/marina-provider.git",
   "author": "Vulpem Ventures",
   "license": "MIT",
   "main": "./dist/index.js",
